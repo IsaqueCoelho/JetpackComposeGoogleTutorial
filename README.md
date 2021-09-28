@@ -8,7 +8,7 @@ Repository created to study and understand the basics of jetpack Compose from Go
 
 Projeto criado para estudar e entender o básico do Jetpack compose através do Tutorial da Google -> https://developer.android.com/jetpack/compose/tutorial.
 
-## Demo(LighMode and DarkMode) ##
+## Demo(DarkMode and LighMode) ##
 
 
 <p>
